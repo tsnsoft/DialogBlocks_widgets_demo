@@ -1,5 +1,5 @@
 # DialogBlocks_widgets_demo
- Пример работы с виджетами
+ Пример работы с виджетами в DialogBlocks
 
 ![srcreenshot](screenshot.png)
 
